@@ -5,7 +5,7 @@ account: berkeucar
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10589030
-bundleId: 7951860
+bundleId: 7959971
 url: https://berkeucar.shinyapps.io/CountryPopulation/
 version: 1
 asMultiple: FALSE
